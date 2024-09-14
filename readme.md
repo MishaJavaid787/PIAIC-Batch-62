@@ -6,7 +6,7 @@
 2. Users will then enter three of their favorite numbers. 
 3. After gathering this information, the program will greet the users with a personalized message that includes their name.
    
-**The three numbers provided by the user will be stored in a _list_.** 
+**"The three numbers provided by the user will be stored in a _list_."** 
 
 4. The program will then check if any of the numbers are **even** or **odd**, and store this information in a separate list of **tuples**, _where each tuple contains the number and a string indicating whether it is "even" or "odd" number._
 5. Following this, the program will use a for loop to iterate over the list of numbers, and for each number will create a tuple containing the number and its square. 
