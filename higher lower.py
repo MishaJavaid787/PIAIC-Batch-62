@@ -1,4 +1,4 @@
-
+import random
 
 # def get_numbers():
 #  user_num=random.randint(1,100)
