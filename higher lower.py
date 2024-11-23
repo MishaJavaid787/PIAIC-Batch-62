@@ -53,6 +53,7 @@ for rounds in range(1,number_of_rounds,+1):
         score-=1
         print(f"Your score is now {score}")
 
+    final_msg ()
         
     
     
