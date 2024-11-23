@@ -29,9 +29,16 @@ def getUserGuess():
          else:
             break
     return guess
+   
         
 number_of_rounds=10
 score=0
+
+
+def final_msg ():
+   final_msg = "I loved playing with you."
+   print(f"""You did well, today.
+{final_msg}, Thanks.""")
 
 
 index=0
